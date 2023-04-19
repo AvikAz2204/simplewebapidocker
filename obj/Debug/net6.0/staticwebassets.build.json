@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TyTCI5UuRDzJG1CSoli0vaOIVgK4zjDunY+2ogBU7f0=",
+  "Source": "corewebapidocker",
+  "BasePath": "_content/corewebapidocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
